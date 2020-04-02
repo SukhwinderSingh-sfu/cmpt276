@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DEPTH OF FILED CALCULATOR</string>
+    <string name="select_a_lens_to_choose">Select a Lens to Choose:</string>
+    <string name="canon_50mm_f1_8">Canon 50mm F1.8</string>
+    <string name="tamron_90mm_f2_8">Tamron 90mm F2.8</string>
+    <string name="sigma_200mm_f2_8">Sigma 200mm F2.8</string>
+    <string name="calculator">Calculator</string>
+    <string name="near_focal_point">Near Focal Point :</string>
+    <string name="far_focal_point">Far Focal Point :</string>
+    <string name="depth_of_field">Depth of Field :</string>
+    <string name="hyperfocal_distance">Hyperfocal Distance :</string>
+    <string name="textview">TextView</string>
+    <string name="circle_of_confusion_m">Circle of Confusion [mm]</string>
+    <string name="distance_to_subject_m">Distance to Subject [m]</string>
+    <string name="selected_aperature">Selected Aperature</string>
+    <string name="calculate">Calculate</string>
+    <string name="_0_029">0.029</string>
+    <string name="ex_1_5_for_1_5m">ex: 1.5 for 1.5m</string>
+    <string name="make">Make</string>
+
+</resources>

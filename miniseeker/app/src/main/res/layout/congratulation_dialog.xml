@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="410dp"
+    android:layout_height="250dp"
+    android:orientation="horizontal">
+
+
+    <ImageView
+        android:id="@+id/dialogimage1"
+        android:layout_width="143dp"
+        android:layout_height="147dp"
+        android:layout_marginTop="85dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@mipmap/mini" />
+
+
+    <ImageView
+        android:id="@+id/dialogimage2"
+        android:layout_width="143dp"
+        android:layout_height="147dp"
+        android:layout_marginStart="269dp"
+        android:layout_marginTop="87dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@mipmap/mini" />
+
+    <TextView
+        android:id="@+id/dialogtext"
+        android:layout_width="341dp"
+        android:layout_height="83dp"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="2dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/congratulation"
+        android:textColor="#4C0CA5"
+        android:textSize="28sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="119dp"
+        android:layout_height="94dp"
+        android:layout_marginStart="146dp"
+        android:layout_marginTop="113dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/you_won"
+        android:textColor="#EE8B0D0D"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
