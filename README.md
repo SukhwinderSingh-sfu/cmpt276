@@ -8,7 +8,7 @@ Assignment -1
 >It finds :- Hyperfocal distance\
 >>    -Near focal point\
 >>    -far focal point\
- >>   -depth of field
+>>   -depth of field
 
                     
 Assignment-2
@@ -17,11 +17,15 @@ Assignment-2
 >Activities-\
 >Lens List\
 >Add Lens\
->Calculate Depth of field\
+>Calculate Depth of field
 
 Assignment -3
 
->Game to find mines with sound and visual effects.
+>Android game, named mineseeker, players has to find mines under the tiles. \
+>Number of mines and scans used are updated regularly.\
+>visual and sound effects on discovery of mine.\
+>Similiar to popular game, MineSweeper.
+
 
      
             
