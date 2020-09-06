@@ -2,15 +2,15 @@
 
 * java application -depth of filed calculator.
 * given:- len's (focal length and maximum apertaure)
-> * distance to subject
-> * aperature
-> * circle of confusion
+  * distance to subject
+  * aperature
+  * circle of confusion
 
-It finds :- 
-> * Hyperfocal distance
-> * Near focal point
-> * far focal point
-> * depth of field
+* It finds :- 
+  * Hyperfocal distance
+  * Near focal point
+  * far focal point
+  * depth of field
 
                     
 ## Assignment-2
